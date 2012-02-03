@@ -1,0 +1,8 @@
+2 archivos importantes
+
+speedometer.c   ------------> es el archivo a pegar en MikroC para luego ser compilado
+speedometer.hex ------------> es el archivo .hex que se puede copiar directamente en el Attiny2313
+
+Para más información sobre las conecciones y circuitos ve a http://555riente.blogspot.com/2012/01/velocimetro-para-tu-vehiculo-por-menos.html
+
+Para más proyectos ve a 555riente.blogspot.com
